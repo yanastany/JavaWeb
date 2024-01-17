@@ -1,6 +1,6 @@
 # Hotel management 
 
-Taote controllerele si serviceurile au teste.
+![Diagrama](diag1.png)
 
 Business requirements
 
@@ -25,7 +25,8 @@ Business requirements
 10. Aplicatia permite legarea angajatilor de un hotel.
 
 11. Conectarea datelor cu o baza de date de tip SQL.
-
+    
+12. Toate controllerele si serviceurile au teste.
 Main features
 
 1. Gestionarea Hotelurilor
